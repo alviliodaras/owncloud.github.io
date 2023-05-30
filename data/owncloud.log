@@ -1,0 +1,45 @@
+{"app":"PHP","message":"touch(): Unable to create file C:\/xampp\/htdocs\/owncloud\/data\/owncloud.log because No such file or directory at C:\\xampp\\htdocs\\owncloud\\lib\\private\\log\\owncloud.php#49","level":3,"time":"2023-04-04T05:12:10+00:00"}
+{"app":"PHP","message":"PDO::__construct(): php_network_getaddresses: getaddrinfo failed: No such host is known.  at C:\\xampp\\htdocs\\owncloud\\3rdparty\\doctrine\\dbal\\lib\\Doctrine\\DBAL\\Driver\\PDOConnection.php#36","level":3,"time":"2023-04-04T05:14:32+00:00"}
+{"app":"PHP","message":"PDO::__construct(): php_network_getaddresses: getaddrinfo failed: No such host is known.  at C:\\xampp\\htdocs\\owncloud\\3rdparty\\doctrine\\dbal\\lib\\Doctrine\\DBAL\\Driver\\PDOConnection.php#36","level":3,"time":"2023-04-04T05:14:35+00:00"}
+{"app":"core","message":"Unable to parse OCS content for app 166043","level":4,"time":"2023-04-04T05:22:41+00:00"}
+{"app":"core","message":"Unable to parse OCS content for app 166044","level":4,"time":"2023-04-04T05:22:41+00:00"}
+{"app":"core","message":"Unable to parse OCS content for app 166045","level":4,"time":"2023-04-04T05:22:41+00:00"}
+{"app":"core","message":"Unable to parse OCS content for app 166049","level":4,"time":"2023-04-04T05:22:41+00:00"}
+{"app":"core","message":"Unable to parse OCS content for app 166050","level":4,"time":"2023-04-04T05:22:41+00:00"}
+{"app":"core","message":"Unable to parse OCS content for app 166051","level":4,"time":"2023-04-04T05:22:41+00:00"}
+{"app":"core","message":"Unable to parse OCS content for app 166054","level":4,"time":"2023-04-04T05:22:42+00:00"}
+{"app":"core","message":"Unable to parse OCS content for app 166055","level":4,"time":"2023-04-04T05:22:42+00:00"}
+{"app":"core","message":"Unable to parse OCS content for app 166057","level":4,"time":"2023-04-04T05:22:42+00:00"}
+{"app":"core","message":"Unable to parse OCS content for app 166043","level":4,"time":"2023-04-04T05:22:42+00:00"}
+{"app":"core","message":"Unable to parse OCS content for app 166044","level":4,"time":"2023-04-04T05:22:42+00:00"}
+{"app":"core","message":"Unable to parse OCS content for app 166045","level":4,"time":"2023-04-04T05:22:42+00:00"}
+{"app":"core","message":"Unable to parse OCS content for app 166049","level":4,"time":"2023-04-04T05:22:42+00:00"}
+{"app":"core","message":"Unable to parse OCS content for app 166050","level":4,"time":"2023-04-04T05:22:42+00:00"}
+{"app":"core","message":"Unable to parse OCS content for app 166051","level":4,"time":"2023-04-04T05:22:42+00:00"}
+{"app":"core","message":"Unable to parse OCS content for app 166054","level":4,"time":"2023-04-04T05:22:42+00:00"}
+{"app":"core","message":"Unable to parse OCS content for app 166055","level":4,"time":"2023-04-04T05:22:42+00:00"}
+{"app":"core","message":"Unable to parse OCS content for app 166057","level":4,"time":"2023-04-04T05:22:42+00:00"}
+{"app":"core","message":"Login failed: 'alviliodaras' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-04-04T05:31:13+00:00"}
+{"app":"core","message":"Login failed: 'alviliodaras' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-04-04T05:31:16+00:00"}
+{"app":"core","message":"Login failed: 'alviliodaras' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-04-04T05:31:16+00:00"}
+{"app":"core","message":"Login failed: 'alviliodaras' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-04-04T05:31:17+00:00"}
+{"app":"core","message":"Login failed: 'alviliodaras' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-04-04T05:31:17+00:00"}
+{"app":"core","message":"Login failed: 'alviliodaras' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-04-04T05:31:18+00:00"}
+{"app":"core","message":"Login failed: 'alviliodaras' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-04-04T05:31:18+00:00"}
+{"app":"core","message":"Login failed: 'alviliodaras' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-04-04T05:31:19+00:00"}
+{"app":"core","message":"Login failed: 'alviliodaras' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-04-04T05:39:05+00:00"}
+{"app":"core","message":"Login failed: 'alviliodaras' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-04-04T05:39:05+00:00"}
+{"app":"core","message":"Login failed: 'alviliodaras' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-04-04T05:39:05+00:00"}
+{"app":"core","message":"Login failed: 'alviliodaras' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-04-04T05:39:05+00:00"}
+{"app":"core","message":"Login failed: 'unknown' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-04-04T05:39:44+00:00"}
+{"app":"core","message":"Login failed: 'unknown' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-04-04T05:39:44+00:00"}
+{"app":"core","message":"Login failed: 'unknown' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-04-04T05:39:44+00:00"}
+{"app":"core","message":"Login failed: 'unknown' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-04-04T05:39:45+00:00"}
+{"app":"core","message":"Login failed: 'unknown' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-04-04T05:39:57+00:00"}
+{"app":"core","message":"Login failed: 'unknown' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-04-04T05:39:57+00:00"}
+{"app":"core","message":"Login failed: 'unknown' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-04-04T05:39:57+00:00"}
+{"app":"core","message":"Login failed: 'unknown' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-04-04T05:39:57+00:00"}
+{"app":"core","message":"Login failed: 'alviliodaras' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-05-02T04:24:36+00:00"}
+{"app":"core","message":"Login failed: 'responsi_18220011' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-05-30T04:58:03+00:00"}
+{"app":"core","message":"Login failed: 'responsi_18220011' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-05-30T04:58:15+00:00"}
+{"app":"core","message":"Login failed: 'responsi_18220011' (Remote IP: '::1', X-Forwarded-For: '')","level":2,"time":"2023-05-30T04:58:30+00:00"}
